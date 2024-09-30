@@ -1,0 +1,213 @@
+.pp{
+    margin-bottom: 115px;
+    font-size: 120%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.pp2{
+    margin-bottom: 10px;
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+    
+.navbar{
+    color: blueviolet;
+}
+
+.st{
+    background-image: linear-gradient(yellow,purple);
+}
+
+.container text-center{
+    padding: 30px;
+}
+
+.ppp{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.logo{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+    margin-bottom: 150px;
+    margin-left: 80px;
+}
+
+.videos{
+    justify-content: center;
+}
+
+.ppp2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 400px;
+    margin-top: 150px;
+    
+    
+    
+    
+
+}
+
+.pppp2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    width: 400px;
+    font-size: 110%;
+    margin-top: 30px;
+    border: solid;
+    border-radius: 30px;
+    border-color: black;
+    padding: 20px;
+    transition: width 1s;
+}
+
+.pppp2:hover{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    width: 420px;
+    font-size: 110%;
+    margin-top: 30px;
+    border: solid;
+    border-radius: 30px;
+    border-color: red;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 5px  yellow;
+
+}
+
+.introo{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin: 100px;
+}
+
+.intro3{
+    display: grid;
+    justify-content: center;
+   
+}
+
+
+
+.p3{
+    margin-top: 20px;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    border: 50px solid transparent;
+    border-image: url(https://static.vecteezy.com/system/resources/thumbnails/010/916/979/small_2x/spring-branches-with-leaves-on-border-with-copy-space-green-and-yellow-leaves-frame-on-white-background-vector-illustration-panorama-landscape-summer-leaves-frame-free-png.png) 20% round;
+    padding: 15px;
+    
+    
+    
+}
+.p4{
+    text-align: justify;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: 50px solid transparent;
+    border-image: url("https://static.vecteezy.com/system/resources/thumbnails/010/916/979/small_2x/spring-branches-with-leaves-on-border-with-copy-space-green-and-yellow-leaves-frame-on-white-background-vector-illustration-panorama-landscape-summer-leaves-frame-free-png.png") 20% round;
+    
+    padding: 15px;
+    
+
+
+}
+
+
+.ima1{
+    width: 400px;
+    height: 400px;
+    border-radius: 25px;
+    transition: width 1s, height 1s;
+}
+
+
+.ima2{
+    width: 400px;
+    height: 400px;
+    border-radius: 25px;
+    transition: width 1s, height 1s;
+
+}
+
+.ima1:hover{
+    width: 600px;
+    height: 500px;
+    border-radius: 25px;
+    
+}
+
+
+.ima2:hover{
+    width: 500px;
+    height: 500px;
+    border-radius: 25px;
+    
+
+}
+
+.im3{
+    width: 600px;
+    height: 400px;
+    border-radius: 25px;
+    border: solid red;
+    
+      
+}
+
+.im3:hover{
+    width: 600px;
+    height: 400px;
+    border-radius: 25px;
+    border: solid red;
+    box-shadow: 0px 0px 10px 5px  yellow;
+      
+}
+
+.vicont{
+    display: grid;
+    justify-content: center;
+    height: 800px;
+    
+}
+
+.FO{
+    background-color: yellow;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tet{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.ppp22{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 400px;
+    margin-top: 50px;
+    
+    
+    
+    
+
+}
